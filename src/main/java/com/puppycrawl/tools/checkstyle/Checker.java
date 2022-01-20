@@ -59,7 +59,7 @@ import com.puppycrawl.tools.checkstyle.api.Violation;
 import com.puppycrawl.tools.checkstyle.utils.CommonUtil;
 
 /**
- * This class provides the functionality to check a set of files.
+ * This class provides the functionality to check a set of files. Some Change.
  */
 public class Checker extends AutomaticBean implements MessageDispatcher, RootModule {
 
